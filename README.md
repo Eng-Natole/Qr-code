@@ -19,7 +19,7 @@ This project is a simple, card-like component that displays a QR code. The desig
 ![QR Code Component](./screenshot/desktop-design.jpg)
 
 🔗 Links
-Solution URL: ////////////////Add solution URL here
+Solution URL:https://github.com/Eng-Natole/Qr-code
 Live Site URL: ////////////////////Add live site URL here
 🛠️ My Process
 Built with
