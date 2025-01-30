@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.water {
+  width: 100%;
+  max-width: 1607px;
+  height: 100%;
+  max-height: 1027px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+  width: 100%;
+  max-width: 292px;
+  height: auto;
+  background-color: white;
+  align-items: center;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+p {
+  font-family: "Outfit", serif;
+  text-align: center;
+}
+
+.bold p {
+  font-weight: 700;
+  font-size: 23px;
+  margin: 10px 0;
+}
+
+.normal p {
+  font-weight: 400;
+  color: hsl(216, 15%, 48%);
+  font-size: 18px;
+}
+
+/* Media Queries */
+@media (max-width: 375px) {
+  .container {
+    width: 45%;
+    padding: 15px;
+  }
+
+  .bold p {
+    font-size: 15px;
+  }
+
+  .normal p {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 376px) and (max-width: 1440px) {
+  .container {
+    width: 80%;
+    padding: 20px;
+  }
+}
