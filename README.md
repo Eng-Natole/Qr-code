@@ -20,7 +20,7 @@ This project is a simple, card-like component that displays a QR code. The desig
 
 🔗 Links
 Solution URL:https://github.com/Eng-Natole/Qr-code
-Live Site URL: ////////////////////Add live site URL here
+Live Site URL:https://eng-natole.github.io/Qr-code/
 🛠️ My Process
 Built with
 HTML5 - For the structure of the component
