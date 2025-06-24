@@ -1,3 +1,5 @@
+status:- finished
+
 Frontend Mentor - QR Code Component Solution
 This is a solution to the QR Code Component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
